@@ -6,6 +6,8 @@
 # the "-"s are for clarity.)
 # draw_stairs(3) == '''I\n_I\n__I'''
 
+#codewars 8kyu
+
 def draw_stairs(n):
     # do something
     wide = ' '
